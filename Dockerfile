@@ -3,7 +3,7 @@
 FROM debian:wheezy
 MAINTAINER Nachochip <blockchaincolony@gmail.com>
 
-ADD 	bin/* 		/usr/local/bin/
+ADD 	ffmpeg.tar.gz	/usr/local/
 ADD 	libc.conf 	/etc/ld.so.conf.d/
 
 
