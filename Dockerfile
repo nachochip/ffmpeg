@@ -1,4 +1,4 @@
-# FFMPEG insert into blank Debian to minimze image size
+# FFMPEG insert into blank Debian to minimize image size
 
 FROM debian:wheezy
 MAINTAINER Nachochip <blockchaincolony@gmail.com>
