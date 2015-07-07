@@ -1,6 +1,6 @@
 # FFMPEG insert into blank Debian to minimize image size
 
-FROM debian:wheezy
+FROM debian:7
 MAINTAINER Nachochip <blockchaincolony@gmail.com>
 
 ADD 	ffmpeg.tar.gz	/usr/local/
